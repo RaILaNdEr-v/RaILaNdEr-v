@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm Vitor Hugo da Silva from Rio de Janeiro - Brazil<br><br>- 🔭 I’m currently studying Analysis and Systems Development and working in construction<br>- 📚 I'm currently learning Python, MySQL, and Web Development<br>- 👨‍💻 I've participated in a programming marathon and won 1st place with my team<br>- ⚡ In my free time I enjoy coding personal projects, listening to Djavan and Skrillex, and learning new technologies<br><br>- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalhando na construção civil  <br>- 📚 Estou aprendendo Python, MySQL e Desenvolvimento Web  <br>- 👨‍💻 Participei de uma maratona de programação e conquistei o 1º lugar com minha equipe  <br>- ⚡ No meu tempo livre, gosto de desenvolver projetos pessoais, ouvir Djavan e Skrillex, e aprender novas tecnologias</p>
+<p align="left">👋 Hello! I'm Vitor Hugo da Silva from Rio de Janeiro - Brazil<br><br>- 🔭 I’m currently studying Analysis and Systems Development and working in construction<br>- 📚 I'm currently learning Python, MySQL, and Web Development<br>- ⚡ In my free time, I enjoy playing games, listening to Djavan and Skrillex, and learning new technologies<br><br>- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalhando na construção civil  <br>- 📚 Estou aprendendo Python, MySQL e Desenvolvimento Web  <br>- ⚡ No meu tempo livre, gosto de jogar, ouvir Djavan e Skrillex, e aprender novas tecnologias</p>
 
 ###
 
